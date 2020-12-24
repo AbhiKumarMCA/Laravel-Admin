@@ -8,10 +8,6 @@
     "minimum-stability": "dev",
     "require": {},
     "autoload": {
-        "classmap": [
-            "database/seeds",
-            "database/factories"
-        ],
         "psr-4": {
             "App\\": "app/",
             "Abhikumarmca\\Laraveladminpanel\\": "packages/abhikumarmca/laraveladminpanel/src"
