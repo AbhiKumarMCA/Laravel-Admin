@@ -1,6 +1,8 @@
 {
     "name": "abhikumarmca/laraveladminpanel",
     "description": "This package is for Laravel Admin Panel",
+    "homepage": "https://github.com/AbhiKumarMCA/Laravel-Admin",
+    "license": "LGPL-2.1",
     "authors": [{
         "name": "Abhishek Kumar",
         "email": "Abhikumarmca@gmail.com"
